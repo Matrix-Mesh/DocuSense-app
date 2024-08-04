@@ -14,3 +14,4 @@ openpyxl
 matplotlib
 streamlit
 langchain
+pydantic
