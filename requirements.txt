@@ -53,3 +53,4 @@ watchdog
 watchfiles
 wikipedia
 ibm_watson_machine_learning
+wxai-langchain
